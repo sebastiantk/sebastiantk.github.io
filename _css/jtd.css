@@ -5,8 +5,16 @@ https://github.com/pmarsceill/just-the-docs/blob/master/LICENSE.txt
 (MIT licensed)
 */
 
+/* @font-face {
+  font-family: "Roboto";
+  src: url("/Users/sebastian/Library/Fonts/Roboto-Regular.ttf") format("Regular"),
+    url("/Users/sebastian/Library/Fonts/Roboto-Italic.ttf") format("Italic"),
+    url("/Users/sebastian/Library/Fonts/Roboto-Bold.ttf") format("Bold"),
+    url("/Users/sebastian/Library/Fonts/Roboto-BoldItalic.ttf") format("BoldItalic");
+} */
+
 html {
-  font-family: sans-serif;
+  font-family: "Courier New", sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-size: 15px;
@@ -18,14 +26,15 @@ html {
   }
 }
 
+
 body {
   margin: 0;
   position: relative;
   padding-bottom: 4rem;
-  font-family: -apple-system, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  font-family: -apple-system, "Courier New", BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: inherit;
   line-height: 1.5;
-  color: #5c5962;
+  color: black;
   background-color: #fff;
 }
 
@@ -562,7 +571,7 @@ td {
 .franklin-content .container img {
   width: auto;
   padding-left: 0;
-  border-radius: 10px;
+  border-radius: 0px;
   margin-bottom: 1em;
 }
 
