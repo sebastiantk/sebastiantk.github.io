@@ -571,7 +571,7 @@ td {
 .franklin-content .container img {
   width: auto;
   padding-left: 0;
-  border-radius: 0px;
+  border-radius: 2px;
   margin-bottom: 1em;
 }
 
@@ -695,4 +695,13 @@ franklin-toc {
   border-top: 1px solid lightgrey;
   padding-top: 2em;
   margin-bottom: 4em;
+}
+
+summary {
+  display: inline-flex;
+  background: none;
+  color: green;
+  list-style: none;
+  outline: none;
+  cursor: pointer;
 }
