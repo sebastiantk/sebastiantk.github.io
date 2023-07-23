@@ -5,13 +5,13 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img style="float: right; margin: 0px 0px 15px 15px; width: 30%;" src="/assets/picture1.jpeg">
+    <img style="float: right; margin: 0px 0px 15px 15px; width: 20%;" src="/assets/picture1.jpeg">
     <p>
       <strong>Sebastian Kreuzmair</strong><br>
       PhD Candidate<br>
       University of Amsterdam<br>
       Email: s.t.kreuzmair@uva.nl
-    </p>
+    </p>s
     <div style="clear: both"></div>
   </div>
 </div>

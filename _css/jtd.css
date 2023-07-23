@@ -679,3 +679,20 @@ franklin-toc {
   /* Avoid clickable elements being too close together. */
   margin: 0.6rem 0;
 }
+
+.franklin-content .page-foot a {
+  text-decoration: none;
+  color: #a6a2a0;
+  text-decoration: underline;
+}
+
+.page-foot {
+  font-size: 70%;
+  font-family: -apple-system, "Courier New", BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #a6a2a0;
+  text-align: center;
+  margin-top: 6em;
+  border-top: 1px solid lightgrey;
+  padding-top: 2em;
+  margin-bottom: 4em;
+}
