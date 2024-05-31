@@ -1,4 +1,4 @@
-Sitemap: https://kreuzmair.eu/sitemap.xml
+Sitemap: https://sebastiantk.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
