@@ -1,3 +1,4 @@
+@def title = "Research"
 
 ## Working Papers
 

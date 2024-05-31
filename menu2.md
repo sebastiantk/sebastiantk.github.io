@@ -1,4 +1,4 @@
-
+@def title = "Teaching"
 ## University of Amsterdam
 
 ### Teaching Assistant
