@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Sebastian Kreuzmair"
 website_descr = "Academic website of Sebastian Kreuzmair"
-website_url   = "https://kreuzmair.eu"
+website_url   = "https://sebastiantk.github.io"
 +++
 
 <!--
