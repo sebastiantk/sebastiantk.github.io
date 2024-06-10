@@ -14,3 +14,5 @@
 ### 2024--present: **[Mathematical Economics II](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/101321)**, BSc Econometrics
 
 *Oligopolistic competition, Product differentiation, anticompetitive behavior*
+
+### 2022--present: **Theses supervision**, BSc Econometrics
