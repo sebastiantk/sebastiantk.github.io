@@ -20,6 +20,8 @@ generate_rss = true
 website_title = "Sebastian Kreuzmair"
 website_descr = "Academic website of Sebastian Kreuzmair"
 website_url   = "https://sebastiantk.github.io/"
+
+keep_path = ["googlecf3ad0200937b99c.html"]
 +++
 
 <!--
