@@ -3,19 +3,25 @@
 
 <url>
     <loc>https://sebastiantk.github.io/research/index.html</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://sebastiantk.github.io/index.html</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://sebastiantk.github.io/teaching/index.html</loc>
-    <lastmod>2024-06-11</lastmod>
+    <lastmod>2024-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://sebastiantk.github.io/googlecf3ad0200937b99c/</loc>
+    <lastmod>2024-06-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
