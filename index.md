@@ -1,6 +1,7 @@
 
 @def title = "Sebastian Kreuzmair"
 @def tags = ["syntax", "code"]
+@def description = "PhD Candidate interested in economic decision making under uncertainty and limited information."
 
 
 ~~~
@@ -25,9 +26,24 @@ span.spamprotection {display:none;}
 
  I am a PhD Candidate at [CeNDEF](https://cendef.uva.nl/) at the University of Amsterdam supervised by [Florian Wagener](https://www.uva.nl/en/profile/w/a/f.o.o.wagener/f.o.o.wagener.html) and [Jan Tuinstra](https://www.uva.nl/en/profile/t/u/j.tuinstra/j.tuinstra.html). I am interested in the role of uncertainty and limited information on economic decision making, with a focus on environmental economics.
  <!-- My main research fields are microeconomic theory and learning. I am particularly interested in dynamic market mechanisms with limited and decentralized information. -->
-
+<!-- 
 ## Education
 
 - 2021--present: PhD in Economics, University of Amsterdam
 - 2019--2021: MPhil in Economics, Tinbergen Institute
-- 2015--2019: BSc in Economics, Vienna University of Economics and Business 
+- 2015--2019: BSc in Economics, Vienna University of Economics and Business  -->
+
+~~~
+<section id="education" data-nosnippet>
+  <h2 id="education-heading">
+    <a href="#education-heading" class="header-anchor">Education</a>
+  </h2>
+  <ul>
+    <li><p>2021–present: PhD in Economics, University of Amsterdam</p></li>
+
+    <li><p>2019–2021: MPhil in Economics, Tinbergen Institute</p></li>
+
+    <li><p>2015–2019: BSc in Economics, Vienna University of Economics and Business</p></li>
+  </ul>
+</section>
+~~~
