@@ -24,6 +24,8 @@ website_url   = "https://sebastiantk.github.io/"
 keep_path = ["googlecf3ad0200937b99c.html"]
 +++
 
+@def description = "Sebastian Kreuzmair — PhD candidate in economics at the University of Amsterdam. Research on uncertainty, limited information, and environmental economics."
+
 <!--
 Add here global latex commands to use throughout your pages.
 -->
