@@ -2,6 +2,14 @@
 
 ## Working Papers
 
+**Political Competition and Climate Policy: A Dynamic Game of Pollution Control** (February 2025)
+~~~
+<details>
+<summary>[Abstract]</summary>
+In this paper, I analyze a dynamic game of political pollution control where two policy-motivated parties compete for votes through tax policies. Voters evaluate the direct effects of the tax policies and vote probabilistically. Depending on the voters’ time horizon, the ambition of the green party’s climate policy is drastically affected.
+</details>
+~~~
+
 **Learning dynamics in a network of Cournot economies** (July 2023)
 ~~~
 <details>
