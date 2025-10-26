@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 ~~~
-**[Climate Policy Uncertainty and the Green Transition](https://sebastiantk.com/assets/political_environmental.pdf)** (Job Market Paper, October 2025)
+**[Climate Policy Uncertainty and the Green Transition](https://sebastiantk.github.io/assets/political_environmental.pdf)** (Job Market Paper, October 2025)
 ~~~
 <details open>
 <summary>[Abstract]</summary>
